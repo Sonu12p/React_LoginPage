@@ -1,0 +1,30 @@
+.email-field {
+    margin-bottom: 1rem;
+  }
+  
+  .input-container {
+    position: relative;
+    display: flex;
+    align-items: left;
+    flex: 1;
+    margin-right: 10px; 
+  }
+
+  
+  .icon {
+    position: absolute;
+    left: 15px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px 10px 10px 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  
